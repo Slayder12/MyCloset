@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCloset</string>
+    <string name="title_text">Мой гардероб</string>
+    <string name="to_the_closet_text">К гардеробу</string>
+    <string name="name_taxt">Название</string>
+    <string name="description_text">Описание:</string>
+</resources>
