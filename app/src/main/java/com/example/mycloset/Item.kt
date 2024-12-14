@@ -1,3 +1,5 @@
 package com.example.mycloset
 
-class Item(val name: String, val description: String, val image: Int)
+import java.io.Serializable
+
+class Item(var id: Int? = null, val name: String, val description: String, val image: Int): Serializable

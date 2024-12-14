@@ -4,4 +4,14 @@
     <string name="to_the_closet_text">К гардеробу</string>
     <string name="name_taxt">Название</string>
     <string name="description_text">Описание:</string>
+    <string name="display_name_text">Наименование:</string>
+    <string name="display_name_text_tv">Наименование</string>
+    <string name="display_description_text">Описание:</string>
+    <string name="display_description_text_tv">Описание...</string>
+    <string name="input_name_text">Введите наименование</string>
+    <string name="input_description_text">Введите описание...</string>
+    <string name="update_data_text">Обновить данные</string>
+    <string name="update_data_below_text">Введите данные ниже</string>
+    <string name="update_text">Обновить</string>
+    <string name="cancelation_text">Отмена</string>
 </resources>

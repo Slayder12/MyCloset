@@ -8,4 +8,11 @@
         android:title="EXIT"
         app:showAsAction = "never" />
 
+    <item
+        android:id="@+id/resetDataBase"
+        android:orderInCategory="50"
+        android:title="RESET DATABASE"
+        android:visible="false"
+        app:showAsAction = "never" />
+
 </menu>
